@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+#cy {
+        width: 50%;
+        height: 50%;
+        position: absolute;
+        top: 200px;
+        left:300px;
+    }
+
